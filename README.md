@@ -1,5 +1,5 @@
 <div align="center">
-### Hi 👋, I'm Jesus Yañez
+ <h1>Hi, I'm Jesus Yañez</h1>
 <div/>
     
 <div align="center">

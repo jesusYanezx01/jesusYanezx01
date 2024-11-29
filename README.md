@@ -49,8 +49,8 @@
 
 ### 📈 My GitHub Stats
 <div align="center">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=JesusYanez&show_icons=true&theme=radical" alt="GitHub stats" />
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JesusYanez&layout=compact&theme=radical" alt="Top Languages" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=jesusYanezx01&show_icons=true&theme=radical" alt="GitHub stats" />
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusYanezx01&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
 ---

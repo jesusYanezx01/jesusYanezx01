@@ -48,6 +48,13 @@
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat-square)
 ![Ubuntu](https://img.shields.io/badge/-Ubuntu-E95420?logo=ubuntu&logoColor=white&style=flat-square)
 
+#### 📡 Version Control and Project Management
+![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat-square)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat-square)
+![Bitbucket](https://img.shields.io/badge/-Bitbucket-0052CC?logo=bitbucket&logoColor=white&style=flat-square)
+![Jira](https://img.shields.io/badge/-Jira-0052CC?logo=jira&logoColor=white&style=flat-square)
+![Trello](https://img.shields.io/badge/-Trello-0079BF?logo=trello&logoColor=white&style=flat-square)
+
 ---
 
 ### 📈 My GitHub Stats

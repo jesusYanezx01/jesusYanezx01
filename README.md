@@ -66,7 +66,7 @@
 ---
 
 ### 🌐 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/jesus-ya%C3%B1ez-169941269)
+- 💼 [LinkedIn](https://www.linkedin.com/in/jesusyanezx/)
 - ✉️ **Email:** [jesusyanezx01@gmail.com](mailto:jesusyanezx01@gmail.com)
 
 ---

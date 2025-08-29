@@ -43,12 +43,8 @@
 #### ⚙️ Frameworks and Libraries
 
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react\&logoColor=black\&style=flat-square)
-![React Native](https://img.shields.io/badge/-React%20Native-61DAFB?logo=react\&logoColor=black\&style=flat-square)
-![Expo](https://img.shields.io/badge/-Expo-000020?logo=expo\&logoColor=white\&style=flat-square)
 ![NestJS](https://img.shields.io/badge/-NestJS-E0234E?logo=nestjs\&logoColor=white\&style=flat-square)
-![Spring](https://img.shields.io/badge/-Spring-6DB33F?logo=spring\&logoColor=white\&style=flat-square)
 ![Symfony](https://img.shields.io/badge/-Symfony-000000?logo=symfony\&logoColor=white\&style=flat-square)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask\&logoColor=white\&style=flat-square)
 
 #### 🛠️ Tools and Other Technologies
 
